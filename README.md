@@ -17,7 +17,7 @@ gpio->setValue(Pin::GPIO4, Value::High);
 
 I2C:
 
-below methods can be used to read and write serialised data (32 bytes max protocol standard)
+below methods can be used to read and write serialized data (32 bytes max protocol standard)
 
     /**
      * @brief readData reads data from bus and fills in out.
@@ -49,7 +49,7 @@ below methods can be used to read and write serialised data (32 bytes max protoc
     }
 
 
-### sample code to recieve data.
+### sample code to receive data.
 
     int slave = 8; //Slave device identifier
     QByteArray ba;
