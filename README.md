@@ -1,5 +1,5 @@
 # rapi
-This repo contains GPIO and I2C library for RaspberryPI written in Qt/C++.
+This repo contains GPIO and I2C library for Raspberry Pi written in Qt/C++.
 
 ### Usage
 Add .cpp and .h files to your Qt project, build and use it.
